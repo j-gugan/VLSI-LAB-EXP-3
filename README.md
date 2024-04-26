@@ -99,9 +99,13 @@ endmodule
 
 # 2 bit Multiplier:
 ![2 bit Multiplier](https://github.com/j-gugan/VLSI-LAB-EXP-3/assets/163828735/28691b74-5366-440a-b510-c36164976216)
+# ELABORATED DESIGN: 
+![image](https://github.com/j-gugan/VLSI-LAB-EXP-3/assets/163828735/813ed048-0457-402c-98e2-453d1a197642)
 
 # 4 Bit Multiplier:
 ![4 Bit Multiplier](https://github.com/j-gugan/VLSI-LAB-EXP-3/assets/163828735/a384666c-d481-4a91-81b3-ececfa7278f9)
+# ELABORATED DESIGN: 
+![image](https://github.com/j-gugan/VLSI-LAB-EXP-3/assets/163828735/9176f754-2459-4c3b-b6b1-d31e53c6389c)
 
 
 **Result**
